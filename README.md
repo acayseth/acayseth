@@ -5,6 +5,7 @@
             <th>💻 Repository</th>
             <th>📦 Package</th>
             <th>🚦 Status</th>
+            <th>🔖 Version</th>
         </tr>
     </thead>
     <tbody>
@@ -12,6 +13,7 @@
             <td>iivineri</td>
             <td><a href="https://github.com/acayseth/iivineri">acayseth/iivineri</a></td>
             <td><a href="https://github.com/users/acayseth/packages/container/package/iivineri">package/iivineri</a></td>
+            <td>N/A</td>
             <td>N/A</td>
         </tr>
         <tr>
@@ -23,6 +25,7 @@
                     <img src="https://github.com/acayseth/icecast2/actions/workflows/icecast2.yml/badge.svg?branch=master" alt="icecast2">
                 </a>
             </td>
+            <td>2.5.0</td>
         </tr>
         <tr>
             <td>liquidsoap</td>
@@ -33,6 +36,7 @@
                     <img src="https://github.com/acayseth/liquidsoap/actions/workflows/liquidsoap.yml/badge.svg?branch=master" alt="liquidsoap">
                 </a>
             </td>
+            <td>2.5.4</td>
         </tr>
     </tbody>
 </table>
