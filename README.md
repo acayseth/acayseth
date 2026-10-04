@@ -10,14 +10,14 @@
     </thead>
     <tbody>
         <tr>
-            <td>iivineri</td>
+            <td> ⭐ iivineri</td>
             <td><a href="https://github.com/acayseth/iivineri">acayseth/iivineri</a></td>
             <td><a href="https://github.com/users/acayseth/packages/container/package/iivineri">package/iivineri</a></td>
             <td>N/A</td>
             <td>N/A</td>
         </tr>
         <tr>
-            <td>icecast2</td>
+            <td> ⭐ icecast2</td>
             <td><a href="https://github.com/acayseth/icecast2">acayseth/icecast2</a></td>
             <td><a href="https://github.com/users/acayseth/packages/container/package/icecast2">package/icecast2</a></td>
             <td>
@@ -28,7 +28,7 @@
             <td>2.5.0</td>
         </tr>
         <tr>
-            <td>liquidsoap</td>
+            <td> ⭐ liquidsoap</td>
             <td><a href="https://github.com/acayseth/liquidsoap">acayseth/liquidsoap</a></td>
             <td><a href="https://github.com/users/acayseth/packages/container/package/liquidsoap">package/liquidsoap</a></td>
             <td>
