@@ -40,7 +40,7 @@
                     <img src="https://github.com/acayseth/liquidsoap/actions/workflows/liquidsoap.yml/badge.svg?branch=master" alt="liquidsoap">
                 </a>
             </td>
-            <td>2.5.4</td>
+            <td>2.4.5</td>
         </tr>
     </tbody>
 </table>
