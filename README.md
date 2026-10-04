@@ -15,7 +15,11 @@
             <td> ⭐ iivineri</td>
             <td><a href="https://github.com/acayseth/iivineri">acayseth/iivineri</a></td>
             <td><a href="https://github.com/users/acayseth/packages/container/package/iivineri">package/iivineri</a></td>
-            <td>N/A</td>
+            <td>
+                <a href="https://github.com/acayseth/iivineri/actions/workflows/production.yml">
+                    <img src="https://github.com/acayseth/iivineri/actions/workflows/production.yml/badge.svg" alt="Production Docker Image CI / CD">
+                </a>
+            </td>
             <td>N/A</td>
         </tr>
         <tr>
@@ -43,4 +47,5 @@
             <td>2.4.5</td>
         </tr>
     </tbody>
+
 </table>
